@@ -1,0 +1,27 @@
+{
+    "1": {
+        "name": "safi",
+        "dob": "1/1/2000",
+        "password": "1",
+        "registered_at": "2026-03-15 03:55:54.098835"
+    },
+    "2": {
+        "name": "test",
+        "dob": "1/1/2000",
+        "password": "2",
+        "registered_at": "2026-03-15 03:57:47.501241"
+    },
+    "3": {
+        "name": "test",
+        "dob": "1/1/2000",
+        "password": "3",
+        "registered_at": "2026-03-15 21:14:09.669044"
+    },
+    "ZT-1234": {
+        "name": "Testing",
+        "dob": "1/1/2000",
+        "course": "BEng Computer Systems Engineering",
+        "password": "1234",
+        "registered_at": "2026-03-15 21:24:01.888461"
+    }
+}
